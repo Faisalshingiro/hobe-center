@@ -71,7 +71,7 @@ const Footer = () => {
                   to="/programs" 
                   className="text-gray-100 hover:text-secondary-300 transition-colors duration-300 text-sm"
                 >
-                  Nature Education
+                  Youth Capacity Building
                 </Link>
               </li>
               <li>
@@ -79,7 +79,7 @@ const Footer = () => {
                   to="/programs" 
                   className="text-gray-100 hover:text-secondary-300 transition-colors duration-300 text-sm"
                 >
-                  Sustainable Agriculture
+                  Culture Preservation & Promotion
                 </Link>
               </li>
               <li>
@@ -87,7 +87,7 @@ const Footer = () => {
                   to="/programs" 
                   className="text-gray-100 hover:text-secondary-300 transition-colors duration-300 text-sm"
                 >
-                  Community Development
+                  Youth Recreation & Cultural Tourism
                 </Link>
               </li>
               <li>
@@ -95,7 +95,7 @@ const Footer = () => {
                   to="/programs" 
                   className="text-gray-100 hover:text-secondary-300 transition-colors duration-300 text-sm"
                 >
-                  Youth Leadership
+                  Environment Conservation
                 </Link>
               </li>
             </ul>
